@@ -1,5 +1,19 @@
 # 📚 WordReference for Alfred
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Translation shortcuts](#translation-shortcuts)
+- [Other shortcuts](#other-shortcuts)
+- [FAQ](#faq)
+- [Contribute](#contribute)
+- [Donations](#donations)
+- [Credits](#credits)
+
+
+## Introduction
+
 **Translate words** straight from your favorite launcher:
 - Open Alfred
 - Type a language combination and a word: `fren fromage`
@@ -12,18 +26,7 @@ This workflow provides **55 shortcuts** to access most of WordReference's featur
 - 43 language combinations
 - English definitions, synonyms, usages, collocations & conjugations
 
-
-## Table of Contents
-
-- [Install](#install)
-- [Translation shortcuts](#translation-shortcuts)
-- [Other shortcuts](#other-shortcuts)
-- [FAQ](#faq)
-- [Contribute](#contribute)
-- [Donations](#donations)
-- [Credits](#credits)
-
-## Install
+## Installation
 
 Download the workflow here (WIP).
 
