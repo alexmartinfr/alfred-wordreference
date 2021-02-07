@@ -28,7 +28,7 @@ This workflow provides **48 shortcuts** to access most of WordReference's featur
 
 ## Installation
 
-- [Download the workflow](https://github.com/AlexMartinFR/alfred-wordreference/raw/main/WordReference.alfredworkflow)
+- [Download the workflow](https://github.com/AlexMartinFR/alfred-wordreference/releases/download/v1.0.1/WordReference.alfredworkflow)
 - Open the `WordReference.alfredworkflow` file to add it to Alfred
 - Et voilà!
 
