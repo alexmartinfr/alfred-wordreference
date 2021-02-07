@@ -21,7 +21,7 @@
 
 ![WordReferenceAlfred](https://user-images.githubusercontent.com/19224681/107133877-00822880-68ed-11eb-9508-7789ed037b6f.gif)
 
-This workflow provides **55 shortcuts** to access most of WordReference's features:
+This workflow provides **48 shortcuts** to access most of WordReference's features:
 - 18 languages
 - 43 language combinations
 - English definitions, synonyms, usages, collocations & conjugations
@@ -123,10 +123,14 @@ You can also access the advanced English dictionaries with the following shortcu
 **A:** Most of WordReference's dictionaries are supported. Check the [translation shortcuts list](#translation-shortcuts) or edit the workflow in Alfred to see a visual list of all available shortcuts!
 ##
 
-**Q: A shortcut is conflicting with another one of my workflows**
+**Q: Why did you choose flag A instead of flag B to represent language C?**
+
+**A:** Flags aren't supposed to represent languages, but countries. I agree, but they still are the most visual representations of a language that we have at our disposal. I've experimented making icons with ISO language codes instead, but it becomes really hard to visually distinguish them from each other in Alfred. The choice I've made are not political/religious, I simply tried to pick the most neutral option whenever possible.
+##
+
+**Q: A shortcut is conflicting with another one of my workflows, how can I fix that?**
 
 **A:** Feel free to edit the workflow shortcuts to your convenience. The most likely suspects you might want to customize/delete are `def`, `syn`, `use`, `col` & perhaps `conj`.
-
 
 
 ## Contribute
