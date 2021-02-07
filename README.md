@@ -2,12 +2,12 @@
 
 **Translate words** straight from your favorite launcher:
 - Open Alfred
-- Type your language combination, followed by a word: `fren fromage`
-- Press enter to open the **[results page](https://www.wordreference.com/fren/fromage) on WordReference**, et voilà!
+- Type a language combination and a word: `fren fromage`
+- Press enter to open the [results page](https://www.wordreference.com/fren/fromage) on WordReference!
 
 ![WordReferenceAlfred](https://user-images.githubusercontent.com/19224681/107133877-00822880-68ed-11eb-9508-7789ed037b6f.gif)
 
-This workflow provides 55 shortcuts to access most of WordReference's features:
+This workflow provides **55 shortcuts** to access most of WordReference's features:
 - 18 languages
 - 43 combinations
 - English definitions, synonyms, usages, collocations & conjugations
@@ -63,6 +63,8 @@ Here are all the language combinations you have at your fingertips:
 - `entr`: English to Turkish
 
 - `fren`: French to English
+- `frit`: French to Italian
+- `fres`: French to Spanish
 
 - `deen`: German to English
 - `dees`: German to Spanish
@@ -70,16 +72,6 @@ Here are all the language combinations you have at your fingertips:
 - `gren`: Greek to English
 
 - `iten`: Italian to English
-
-- `esen`: Spanish to English
-- `esfr`: Spanish to French
-- `esde`: Spanish to German
-- `esit`: Spanish to Italian
-- `espt`: Spanish to Portuguese
-
-- `fren`: French to English
-- `frit`: French to Italian
-- `fres`: French to Spanish
 
 - `jaen`: Japanese to English
 
@@ -94,6 +86,12 @@ Here are all the language combinations you have at your fingertips:
 
 - `ruen`: Russian to English
 
+- `esen`: Spanish to English
+- `esfr`: Spanish to French
+- `esde`: Spanish to German
+- `esit`: Spanish to Italian
+- `espt`: Spanish to Portuguese
+
 - `sven`: Swedish to English
 
 - `tren`: Turkish to English
@@ -101,7 +99,7 @@ Here are all the language combinations you have at your fingertips:
 
 ## Other shortcuts
 
-You can also access WordReference's advanced English dictionnaries with the following shortcuts:
+You can also access the advanced English dictionaries with the following shortcuts:
 
 - `def`: definition of a word
 - `syn`: synonyms of a word
@@ -114,12 +112,12 @@ You can also access WordReference's advanced English dictionnaries with the foll
 
 **Q: Do I need an API key for this workflow?**
 
-**A:** No! This workflow consists of simple URL shortcuts taking your directly to the relevant WordReference result page. Therefore, there is no API key needed.
+**A:** No! This workflow consists of simple URL shortcuts taking you directly to the relevant WordReference result page. Therefore, there is no API key needed.
 ##
 
 **Q: Is my favorite language combination supported?**
 
-**A:** Most of WordReference's dictionnaries are supported. Click on the workflow in *Alfred Preferences* to see a visual list of all available shortcuts. Or, if you're feeling lucky, just type it in your launcher!
+**A:** Most of WordReference's dictionaries are supported. Click on the workflow in *Alfred Preferences* to see a visual list of all available shortcuts. Or, if you're feeling lucky, just type it in your launcher!
 ##
 
 **Q: A shortcut is conflicting with another one of my workflows**
@@ -130,7 +128,7 @@ You can also access WordReference's advanced English dictionnaries with the foll
 
 ## Contribute
 
-Feel free to open an issue with your improvement suggestion. I will take everyone of them into account!
+Feel free to open an issue with your improvement suggestion. I will take every one of them into account!
 
 
 ## Donations
