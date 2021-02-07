@@ -32,9 +32,9 @@ Download the workflow here (WIP).
 
 This workflow mainly consists of translation shortcuts.
 
-![image](https://user-images.githubusercontent.com/19224681/106978659-f6c9bb00-675c-11eb-838b-0d50e33cf092.png)
+![WordReferenceAlfred](https://user-images.githubusercontent.com/19224681/107135388-7fca2900-68fa-11eb-9082-f841d044c06f.png)
 
-Here are all the language combinations you have at your fingertips:
+**Here are all the language combinations you have at your fingertips:**
 
 - `aren`: Arabic to English
 
@@ -117,12 +117,12 @@ You can also access the advanced English dictionaries with the following shortcu
 
 **Q: Is my favorite language combination supported?**
 
-**A:** Most of WordReference's dictionaries are supported. Click on the workflow in *Alfred Preferences* to see a visual list of all available shortcuts. Or, if you're feeling lucky, just type it in your launcher!
+**A:** Most of WordReference's dictionaries are supported. Check the [translation shortcuts list](#translation-shortcuts) or edit the workflow in Alfred to see a visual list of all available shortcuts!
 ##
 
 **Q: A shortcut is conflicting with another one of my workflows**
 
-**A:** Feel free to edit the workflow shortcuts to your convenience. The most likely suspects you will want to customize/delete are `def`, `syn`, `use`, `col` & perhaps `conj`.
+**A:** Feel free to edit the workflow shortcuts to your convenience. The most likely suspects you might want to customize/delete are `def`, `syn`, `use`, `col` & perhaps `conj`.
 
 
 
