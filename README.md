@@ -1,4 +1,7 @@
-# 📚 WordReference for Alfred
+# WordReference for Alfred
+
+![WordReference for Alfred](https://github.com/AlexMartinFR/alfred-wordreference/blob/main/assets/hero@1x.png)
+
 
 ## Table of Contents
 
@@ -152,5 +155,5 @@ Please note that I'm in no way affiliated with WordReference, I simply cherish t
 
 ## Credits
 
-- Design advice: [Caneco](https://github.com/caneco)
-- Original flag icons: [Flaticon](https://www.flaticon.com/packs/countrys-flags)
+- Thanks to [Caneco](https://github.com/caneco) for his design advices and the hero image
+- Thanks to [Flaticon](https://www.flaticon.com/packs/countrys-flags) for the source flag icons
