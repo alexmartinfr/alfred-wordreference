@@ -9,7 +9,7 @@
 
 This workflow provides **55 shortcuts** to access most of WordReference's features:
 - 18 languages
-- 43 combinations
+- 43 language combinations
 - English definitions, synonyms, usages, collocations & conjugations
 
 
