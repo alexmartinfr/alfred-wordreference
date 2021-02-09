@@ -2,7 +2,7 @@
 
 ![WordReference for Alfred](https://github.com/AlexMartinFR/alfred-wordreference/blob/main/assets/hero@1x.png)
 
-<a href="https://www.producthunt.com/posts/wordreference-for-alfred?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-wordreference-for-alfred" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=283729&theme=light" alt="WordReference for Alfred - Multilingual translations at your fingertips! | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/posts/wordreference-for-alfred?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-wordreference-for-alfred" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=283729&theme=dark" alt="WordReference for Alfred - Multilingual translations at your fingertips! | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Table of Contents
 
