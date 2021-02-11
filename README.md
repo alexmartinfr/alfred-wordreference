@@ -134,7 +134,7 @@ You can also access the advanced English dictionaries with the following shortcu
 **A:** Flags aren't supposed to represent languages, but countries. I agree, but they still are the most visual representations of a language that we have at our disposal. I've experimented making icons with ISO language codes instead, but it becomes really hard to visually distinguish them from each other in Alfred. The choice I've made are not political/religious, I simply tried to pick the most neutral option whenever possible.
 ##
 
-**Q: A shortcut is conflicting with another one of my workflows, how can I fix that?**
+**Q: A shortcut is conflicting with another workflow. How can I fix that?**
 
 **A:** Feel free to edit the workflow shortcuts to your convenience. The most likely suspects you might want to customize/delete are `def`, `syn`, `use`, `col` & perhaps `conj`.
 
@@ -147,14 +147,14 @@ Feel free to open an issue with your improvement suggestion. I will take every o
 ## Donations
 
 If you like this workflow and want to donate, you can:
-- [become a WordReference supporter](https://www.wordreference.com/docs/supporter.aspx) to help keep the site alive
-- [sponsor me on GitHub](https://github.com/sponsors/AlexMartinFR)
-- [send me a tip on Paypal](https://www.paypal.com/paypalme/alexmartin)
+- Become a [WordReference supporter](https://www.wordreference.com/docs/supporter.aspx) to help keep the site alive
+- [Sponsor me on GitHub](https://github.com/sponsors/AlexMartinFR)
+- [Send me a tip on Paypal](https://www.paypal.com/paypalme/alexmartin)
 
 Please note that I'm in no way affiliated with WordReference, I simply cherish this awesome web resource!
 
 
 ## Credits
 
-- Thanks to [Caneco](https://github.com/caneco) for his design advices and the hero image
-- Thanks to [Flaticon](https://www.flaticon.com/packs/countrys-flags) for the source flag icons
+- Thanks to [Caneco](https://github.com/caneco) for his design advices and the awesome hero banner!
+- Thanks to [Flaticon](https://www.flaticon.com/packs/countrys-flags) for the source flag icons.
